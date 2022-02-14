@@ -7,8 +7,6 @@ title: Telemetry
 weight: 30
 images:
 - /images/documentation/exporters.png
-aliases:
-- /docs/logging-metrics-tracing/tracing/
 menu:
   community_current:
     parent: "080 Telemetry"

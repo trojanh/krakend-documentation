@@ -6,8 +6,6 @@ linktitle: Prometheus
 title: Exporting metrics to Prometheus
 weight: 70
 source: https://github.com/devopsfaith/krakend-opencensus
-aliases:
-- /docs/logging-metrics-tracing/prometheus/
 menu:
   community_current:
     parent: "080 Telemetry"

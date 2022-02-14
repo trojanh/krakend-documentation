@@ -5,8 +5,6 @@ notoc: true
 linktitle: Opencensus
 title: Sending out logs, metrics, and traces
 weight: 60
-aliases:
-- /docs/logging-metrics-tracing/opencensus/
 menu:
   community_current:
     parent: "080 Telemetry"

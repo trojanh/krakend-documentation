@@ -6,8 +6,6 @@ linktitle: Jaeger
 title: Exporting traces to Jaeger
 weight: 100
 notoc: true
-aliases:
-- /docs/logging-metrics-tracing/jaeger/
 menu:
   community_current:
     parent: "080 Telemetry"

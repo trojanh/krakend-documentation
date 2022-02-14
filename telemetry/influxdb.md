@@ -6,8 +6,6 @@ linktitle: InfluxDB
 title: Exporting metrics and events to InfluxDB
 weight: 80
 notoc: true
-aliases:
-- /docs/logging-metrics-tracing/influxdb/
 menu:
   community_current:
     parent: "080 Telemetry"
