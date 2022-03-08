@@ -1,5 +1,6 @@
 ---
 lastmod: 2020-11-17
+canonical: "/docs/telemetry/grafana/"
 date: 2020-11-17
 linktitle: Grafana dashboard
 title: Preconfigured Grafana dashboard

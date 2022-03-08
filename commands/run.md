@@ -1,5 +1,6 @@
 ---
 lastmod: 2016-10-28
+canonical: "/docs/overview/run/"
 date: 2016-10-28
 linktitle: Run
 title: Running KrakenD server. The `krakend run` command

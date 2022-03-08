@@ -1,5 +1,6 @@
 ---
 lastmod: 2021-02-16
+canonical: "/docs/configuration/check/"
 date: 2016-10-28
 linktitle: Check
 title: Commands - check

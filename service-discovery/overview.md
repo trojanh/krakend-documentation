@@ -1,5 +1,6 @@
 ---
 lastmod: 2019-02-13
+canonical: "/docs/backends/service-discovery/"
 date: 2016-09-30
 toc: true
 linktitle: Service Discovery overview

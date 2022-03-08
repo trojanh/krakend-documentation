@@ -1,5 +1,6 @@
 ---
 lastmod: 2021-02-22
+canonical: "/docs/v1.3/service-discovery/etcd/"
 date: 2016-09-30
 toc: true
 linktitle: etcd

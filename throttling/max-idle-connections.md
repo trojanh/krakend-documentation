@@ -1,6 +1,7 @@
 ---
 lastmod: 2018-09-27
 date: 2018-01-04
+canonical: "/docs/service-settings/http-transport-settings/"
 linktitle: Max IDLE connections
 title: Maximum IDLE connections
 weight: 60

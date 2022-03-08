@@ -1,5 +1,6 @@
 ---
 lastmod: 2018-10-20
+canonical: "/docs/overview/lura-vs-krakend/"
 date: 2018-06-23
 linktitle: Lura vs. KrakenD
 description: What is the difference between Lura and KrakenD?

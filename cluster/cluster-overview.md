@@ -1,5 +1,6 @@
 ---
 lastmod: 2018-11-02
+canonical: "/docs/deploying/clustering/"
 date: 2017-01-21
 linktitle: Cluster Overview
 notoc: true

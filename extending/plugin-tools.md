@@ -1,5 +1,6 @@
 ---
 lastmod: 2019-01-15
+canonical: "/docs/extending/check-plugin/"
 date: 2019-01-14
 notoc: true
 linktitle: Plugin validation tools
